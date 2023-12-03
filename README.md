@@ -15,9 +15,9 @@
 </p>
 <h3>My Projects:</h3>
 <ol>
-  <li>Patient predict
-  <li>Questiion-Answering based on doc
-  <li>Personal Telegram GPT-bot
+  <li>Patient predict.
+  <li>Question-Answering system based on doc.
+  <li>Personal Telegram GPT-bot.
 </ol>
 
 
