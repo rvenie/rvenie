@@ -9,6 +9,12 @@
   <a href="https://leetcode.com/rvenie/">LeetCode</a>
 </p>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
+
 <!--
 **rvenie/rvenie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
