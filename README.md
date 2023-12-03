@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://rvenie.github.io">Blog</a> •
-  <a href="https://t.me/rvenie">Telegram</a>•
-  <a href="https://huggingface.co/rvenie">HuggingFace</a>•
-  <a href="https://www.kaggle.com/rvenie">Kaggle</a>•
-  <a href="https://www.linkedin.com/in/rvenie">LinkedIn</a>•
+  <a href="https://t.me/rvenie">Telegram</a> •
+  <a href="https://huggingface.co/rvenie">HuggingFace</a> •
+  <a href="https://www.kaggle.com/rvenie">Kaggle</a> •
+  <a href="https://www.linkedin.com/in/rvenie">LinkedIn</a> •
   <a href="https://leetcode.com/rvenie/">LeetCode</a>
 </p>
 
