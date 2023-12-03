@@ -13,6 +13,15 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/rvenie/count.svg" />
 </p>
+<h3>My Projects:</h3>
+<ol>
+  <li>Patient predict/li>
+  <li>Questiion-Answering based on doc</li>
+  <li>Personal Telegram GPT-bot</li>
+</ol>
+
+
+
 
 
 <!--
