@@ -1,4 +1,12 @@
-### Hi there 👋
+<h3 align="center">👋 Hello! I'm Denis</h3>
+
+<p align="center">
+  <a href="https://rvenie.github.io">Blog</a> •
+  <a href="https://t.me/rvenie">Telegram</a>•
+  <a href="https://huggingface.co/rvenie">HuggingFace</a>•
+  <a href="https://www.kaggle.com/rvenie">Kaggle</a>•
+  <a href="https://www.linkedin.com/in/rvenie">LinkedIn</a>
+</p>
 
 <!--
 **rvenie/rvenie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
