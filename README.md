@@ -14,11 +14,11 @@
   <img src="https://profile-counter.glitch.me/rvenie/count.svg" />
 </p>
 <h3>My Projects:</h3>
-<ol>
+<ul>
   <li>Patient predict.
   <li>Question-Answering system based on doc.
   <li>Personal Telegram GPT-bot.
-</ol>
+</ul>
 
 
 
