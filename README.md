@@ -15,9 +15,8 @@
 </p>
 <h3>My Projects:</h3>
 <ul>
-  <li>Patient predict
-  <li><a href="https://github.com/rvenie/qabert">Question-Answering system</a>
-  <li><a href="https://github.com/rvenie/rvenie_bot">Personal Telegram GPT-bot</a>
+  <li><a href="https://github.com/rvenie/rvenie_bot">Mistral Telegram bot</a>
+  <li><a href="https://github.com/rvenie/nsi-client">Client for NSI data</a>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
