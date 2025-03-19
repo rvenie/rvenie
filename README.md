@@ -15,7 +15,7 @@
 </p>
 <h3>My Projects:</h3>
 <ul>
-  <li><a href="https://github.com/rvenie/rvenie_bot">Mistral Telegram bot</a>
+  <li><a href="https://github.com/rvenie/rvenie_bot">Mistral GPT Telegram bot</a>
   <li><a href="https://github.com/rvenie/nsi-client">Client for NSI data</a>
 </ul>
 
