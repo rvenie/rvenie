@@ -17,6 +17,7 @@
 <ul>
   <li><a href="https://github.com/rvenie/rvenie_bot">Mistral GPT Telegram bot</a>
   <li><a href="https://github.com/rvenie/nsi-client">Client for NSI data</a>
+  <li><a href="https://github.com/rvenie/listenurl_bot">Конвертер ссылок на музыку в Телеграм</a>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
