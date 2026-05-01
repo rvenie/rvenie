@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Denis%20Kustov&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20LLM%20Builder&descAlignY=58&descSize=18)
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Building+LLM+agents+%26+RAG+pipelines+%F0%9F%A4%96;Healthcare+AI+%7C+Data+Annotation+%7C+MedTech;Python+%7C+PyTorch+%7C+Docker+%7C+PostgreSQL;Open+to+collaborations+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Building+LLM+agents+%26+RAG+pipelines+%F0%9F%A4%96;Healthcare+AI+%7C+Data+Annotation+%7C+MedTech;Python+%7C+PyTorch+%7C+Docker+%7C+PostgreSQL;Researching+Annotation+Pipeline+Agents+%F0%9F%94%AC;Open+to+collaborations+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- Social badges -->
 <p>
@@ -32,12 +32,24 @@ class MLEngineer:
         self.location    = "Saint Petersburg, Russia 🇷🇺"
         self.focus       = ["LLMs", "RAG Pipelines", "Healthcare AI", "Data Annotation"]
         self.stack       = ["Python", "PyTorch", "Docker", "PostgreSQL", "Proxmox"]
-        self.research    = "Annotation Pipeline Agents (Master's thesis)"
+        self.research    = "Annotation Pipeline Agents (Master's thesis @ ITMO)"
         self.currently   = "Building intelligent data pipelines & LLM agents"
 
     def fun_fact(self) -> str:
         return "I run my own home lab on Proxmox 🖥️ and drink too much coffee ☕"
 ```
+
+---
+
+## 🔥 Now
+
+> *What I'm actively working on — updated May 2026*
+
+- 🎓 Writing **Master's thesis** on automated annotation pipeline agents (ITMO)
+- 🤖 Designing **multi-agent RAG systems** for medical document processing
+- 📊 Exploring **LLM-as-judge** evaluation frameworks for annotation quality
+- 🏠 Expanding home lab: Proxmox cluster + self-hosted AI inference stack
+- 📖 Preparing for **English C1** interviews in international ML teams
 
 ---
 
@@ -58,6 +70,7 @@ class MLEngineer:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **ML / AI / LLM**
 
@@ -69,6 +82,13 @@ class MLEngineer:
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
+**Data & Annotation**
+
+![Label Studio](https://img.shields.io/badge/Label%20Studio-FF6B6B?style=flat-square&logo=label-studio&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
 **Infra & DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -77,6 +97,16 @@ class MLEngineer:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rvenie&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
